@@ -1,0 +1,6 @@
+database = {{ env "JOURNEY_DATABASE_NAME" }}
+user = {{ env "JOURNEY_DATABASE_USER" }}
+password = {{ env "JOURNEY_DATABASE_PASSWORD" }}
+
+nova senha = postgres
+
